@@ -1,0 +1,8 @@
+CREATE TABLE mini_project.Books (
+BookId INT PRIMARY KEY AUTO_INCREMENT,
+Title VARCHAR(225) NOT NULL,
+Author VARCHAR(255) NOT NULL,
+PublicationYear INT,
+Genre VARCHAR(50),
+ISBN VARCHAR(20)
+);

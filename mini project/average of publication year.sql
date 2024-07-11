@@ -1,0 +1,1 @@
+SELECT avg(PublicationYear) AS AveragePublicationYear FROM mini_project.books;

@@ -1,0 +1,1 @@
+SELECT Name,PhoneNumber,Email FROM mini_project.members;

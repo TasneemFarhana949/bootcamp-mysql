@@ -1,0 +1,1 @@
+SUM(Salary) AS TotalSalary from day3.employees;

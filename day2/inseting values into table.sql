@@ -1,0 +1,3 @@
+INSERT INTO new_sc.countries VALUES("c0001","INDIA",1004),
+("c0002","INDIA",1005),
+("c0003","INDIA",1006);

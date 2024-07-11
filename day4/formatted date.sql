@@ -1,0 +1,1 @@
+select 	EmployeeID,FirstName,LastName,Date_Format(HireDate,'%m-%d-%Y')AS FormattedHireDate FROM day4.employee;

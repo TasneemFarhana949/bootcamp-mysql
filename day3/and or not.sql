@@ -1,0 +1,1 @@
+SELECT * FROM day3.employees WHERE Department = 'IT' AND NOT Department='finance';

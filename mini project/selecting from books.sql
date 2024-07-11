@@ -1,0 +1,1 @@
+SELECT Title,Author FROM mini_project.books;

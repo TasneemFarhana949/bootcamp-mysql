@@ -1,0 +1,2 @@
+
+INSERT INTO  new_sc.jobs VALUES(1001,'OFFICER',8000,5000);

@@ -1,0 +1,1 @@
+SELECT concat(FirstName,'',LastName)AS FULLNAME FROM day3.employees;

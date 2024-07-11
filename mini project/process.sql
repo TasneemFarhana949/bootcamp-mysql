@@ -1,0 +1,3 @@
+-- 1. Information about books (title,author,date)
+-- 2. Information about the members(name,number,email,address)
+-- 3. Borrowing records 

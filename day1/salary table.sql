@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS new_sc.Salary(
+JOB_ID integer NOT NULL UNIQUE,
+JOB_TITLE varchar(35) NOT NULL,
+MIN_SALARY decimal(6,0)
+);
+INSERT INTO new_sc.Salary VALUES(1001,'OFFICER',8000);

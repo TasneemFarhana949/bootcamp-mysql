@@ -1,0 +1,1 @@
+INSERT INTO new_sc.countries VALUES("C1","INDIA",1002)
